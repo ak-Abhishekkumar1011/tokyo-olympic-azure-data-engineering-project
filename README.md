@@ -18,3 +18,4 @@ Databricks is a unified analytics platform built on top of Apache Spark, designe
 
 SQL Data Warehouse is a cloud-based analytics service provided by Microsoft Azure. It combines big data and data warehousing into a single integrated platform, allowing organizations to analyze and process large volumes of data for business intelligence and data analytics purposes.
 
+![Types of Integration Runtime](https://github.com/user-attachments/assets/16ebbba5-fa1d-44f3-9626-6661392ad7fa)
